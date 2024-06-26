@@ -1,0 +1,74 @@
+.eagle{
+  height: 60px;
+  width: 90px;
+  margin-top: -10px;
+  margin-bottom: -10px;
+}
+
+body{
+  background-image: url(dust\ 2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+p {
+  color: white
+}
+
+h2 {
+  color: white
+}
+
+h3 {
+  color: white
+}
+
+h4 {
+  color: rgb(241, 93, 93)
+}
+
+h1{
+  background: -webkit-linear-gradient(left, rgb(140, 52, 255) , rgb(41, 187, 255));
+  background: -o-linear-gradient(right,rgb(140, 52, 255) , rgb(41, 187, 255));
+  background: -moz-linear-gradient(right,rgb(140, 52, 255) , rgb(41, 187, 255));
+  background: linear-gradient(to right,rgb(140, 52, 255) , rgb(41, 187, 255)); 
+ -webkit-background-clip: text;
+ -webkit-text-fill-color: transparent;
+}
+
+.walls{
+  height: 80px;
+  width: 170px;
+  margin-left: 400px;
+  margin-top: -100px;
+  
+}
+
+.jiggle{
+  height: 80px;
+  width: 170px;
+  margin-left: 150px;
+  margin-top: -60px;
+}
+
+footer{
+  margin-top: 200px;
+  font-size: 40px;
+}
+
+a {
+  text-decoration: none;
+  color:blue;
+}
+
+a:hover{
+  color:aqua;
+}
+
+a:active{
+  color:rgb(241, 93, 93)
+}
+
+.all {
+  text-align: center;
+}
